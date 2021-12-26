@@ -16,6 +16,7 @@
     
 </head>
 <body>
+    <h1>Im Btamna!</h1>
     <input id="inputAmount"></input>
     <button id = "btnCounter">+</button> 
     
